@@ -1,0 +1,15 @@
+svg{
+    max-width: 60px;
+    fill:rgb(139, 10, 12);
+}
+#Layer_2{
+    fill: rgb(230, 10, 21);
+}
+
+svg:hover{
+    transform: scale(1.1);
+    fill: rgb(69, 33, 200);
+    #Layer_2{
+    fill: aqua;
+}
+}
